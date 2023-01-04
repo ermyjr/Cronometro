@@ -51,13 +51,12 @@ img {
     font-weight: 250
 }
 #reset{
-    color: yellowgreen;
-
+    color:blue;
     font-weight: 250;
 }
 
 #stop{
-    color:aquamarine;
+    color:red;
 
     font-weight: 250;
 }
